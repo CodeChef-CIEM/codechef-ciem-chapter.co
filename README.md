@@ -4,7 +4,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/CodeChef-CIEM/CodeChef-CIEM.github.io/graphs/commit-activity)
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://codechef-ciem.github.io/)
 [![GitHub issues](https://img.shields.io/github/issues/CodeChef-CIEM/CodeChef-CIEM.github.io)](https://github.com/CodeChef-CIEM/CodeChef-CIEM.github.io/issues)
-[![GitHub forks](https://img.shields.io/github/forks/CodeChef-CIEM/CodeChef-CIEM.github.io?style=social)](https://github.com/CodeChef-CIEM/CodeChef-CIEM.github.io/network)
+[![GitHub forks](https://img.shields.io/github/forks/CodeChef-CIEM/CodeChef-CIEM.github.io?style=social)](https://github.com/CodeChef-CIEM/CodeChef-CIEM.github.io/network/members)
 [![GitHub stars](https://img.shields.io/github/stars/CodeChef-CIEM/CodeChef-CIEM.github.io?style=social)](https://github.com/CodeChef-CIEM/CodeChef-CIEM.github.io/stargazers)
 <br><br>
 [![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](https://codechef-ciem.github.io/)
