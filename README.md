@@ -12,7 +12,7 @@
 [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](https://synthax.live/https://codechef-ciem.github.io/)
 
 
-This is the official website of __CodeChef-CIEM Chapter__. Here, all the details of our organized or to be organize __EVENTS___, __TEAM MEMBERS__, __GOALS and TARGETS__ are mentioned along with all the social media handles of __CodeChef-CIEM Chapter__
+This is the official website of __CodeChef-CIEM Chapter__. Here, all the details of our organized or to be organize __EVENTS__, __TEAM MEMBERS__, __GOALS and TARGETS__ are mentioned along with all the social media handles of __CodeChef-CIEM Chapter__
 
 Improvements and modifications are welcome.
 
