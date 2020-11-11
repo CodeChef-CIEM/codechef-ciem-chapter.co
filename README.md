@@ -16,7 +16,7 @@ This is the official website of __CodeChef-CIEM Chapter__. Here, all the details
 
 Improvements and modifications are welcome.
 
-# Technology Stack Used:-
+# Tech Stack Used:-
 ```
     1.HTML
     2.CSS & Sass
