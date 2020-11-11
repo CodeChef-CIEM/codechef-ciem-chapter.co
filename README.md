@@ -19,6 +19,6 @@ Improvements and modifications are welcome.
 # Technology Stack Used:-
 ```
     1.HTML
-    2.CSS & SCSS
+    2.CSS & Sass
     3.JavaScript
 ```
