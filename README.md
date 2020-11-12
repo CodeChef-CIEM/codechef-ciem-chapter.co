@@ -31,13 +31,13 @@ All contributions are welcomed. Follow these __Guidelines__:
 - Step 2: Make the Changes. Keep in mind the changes should be according to the contributing guidelines.
 - Step 3: Commit the changes.
 - Step 4: Click on Pull Request.
-- For more detailed steps for __How to Contribute__ or __How to Sync__, follow [__Contributing.md__](https://github.com/DeepNinja07x/Typing-Speed-Test/blob/main/CONTRIBUTING.md) file.
+- For more detailed steps for __How to Contribute__ or __How to Sync__, follow [__Contributing.md__](https://github.com/CodeChef-CIEM/CodeChef-CIEM.github.io/blob/main/CONTRIBUTING.md) file.
 #### Voila..... You just made your first Pull Request.
 
 ---
 
 # Contributors Wall:
-All *Contributions* of the *Contributors* can be found in the [__Contributions__](https://github.com/DeepNinja07x/Python_Scripts/graphs/contributors) section.
+All *Contributions* of the *Contributors* can be found in the [__Contributions__](https://github.com/CodeChef-CIEM/CodeChef-CIEM.github.io/graphs/contributors) section.
 <table>
   <tr>
       <td align="center">
