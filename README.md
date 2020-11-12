@@ -19,7 +19,7 @@ Improvements and modifications are welcome.
 # Tech Stack Used:-
 ```
     1.HTML
-    2.CSS & Sass
+    2.CSS & SCSS
     3.JavaScript
 ```
 
