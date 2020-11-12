@@ -77,8 +77,9 @@ All *Contributions* of the *Contributors* can be found in the [__Contributions__
 
 # Follow Us On :speech_balloon:
 <br>
-<a href="https://codechef-ciem.github.io/" target="_blank"><img alt="CodeChef-CIEM | Portfolio" height="30px" width=50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="https://www.linkedin.com/company/codechef-ciem" target="_blank"><img alt="CodeChef-CIEM | LinkedIn" height="30px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> <a href="https://www.instagram.com/codechef_ciem_chapter/" target="_blank"><img alt="CodeChef-CIEM | Instagram" height="30px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a> <a href=" https://www.facebook.com/CodeChef-CIEM-Chapter-110217484232492/" target="_blank"><img alt="CodeChef-CIEM | Facebook" height="30px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/facebook.svg" /></a>
+<a href="https://codechef-ciem.github.io" target="_blank"><img alt="CodeChef-CIEM | Portfolio" height="30px" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://www.linkedin.com/company/codechef-ciem" target="_blank"><img alt="CodeChef-CIEM | LinkedIn" height="30px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> <a href="https://www.instagram.com/codechef_ciem_chapter/" target="_blank"><img alt="CodeChef-CIEM | Instagram" height="30px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a> 
+<a href=" https://www.facebook.com/CodeChef-CIEM-Chapter-110217484232492/" target="_blank"><img alt="CodeChef-CIEM | Facebook" height="30px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/facebook.svg" /></a>
 <br>
 
     
