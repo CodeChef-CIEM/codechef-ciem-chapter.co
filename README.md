@@ -22,3 +22,34 @@ Improvements and modifications are welcome.
     2.CSS & Sass
     3.JavaScript
 ```
+
+---
+
+# How to Contribute:
+All contributions are welcomed. Follow these __Guidelines__:
+- Step 1: Fork this Repo. (This will create a separate clonned repo of this one for you)
+- Step 2: Make the Changes. Keep in mind the changes should be according to the contributing guidelines.
+- Step 3: Commit the changes.
+- Step 4: Click on Pull Request.
+- For more detailed steps for __How to Contribute__ or __How to Sync__, follow [__Contributing.md__](https://github.com/DeepNinja07x/Typing-Speed-Test/blob/main/CONTRIBUTING.md) file.
+#### Voila..... You just made your first Pull Request.
+
+---
+
+# Contributors Wall:
+All *Contributions* of the *Contributors* can be found in the [__Contributions__](https://github.com/DeepNinja07x/Python_Scripts/graphs/contributors) section.
+<table>
+  <tr>
+      <td align="center">
+          <a href="https://github.com/DeepNinja07x">
+              <img src="https://avatars0.githubusercontent.com/u/52314477?s=400&u=1887ecc3afa1e867af50336a3af7ed56b21dc604&v=4" width="100px;" alt="DeepNinja07x"/><br />
+              <sub>
+                  <b>
+                      <strong>Deepraj Rakshit</strong>
+                  </b>
+              </sub>
+          </a>
+      </td>
+    </tr>
+</table>
+    
