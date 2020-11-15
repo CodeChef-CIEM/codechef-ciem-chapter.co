@@ -3508,13 +3508,20 @@ input, select, textarea {
 				}
 
 		}
-@media screen and (max-width: 500px){
-	#banner .logo {
-		height:35%;
-		width:35;
-	}
-}
+		@media screen and (max-width: 500px) {
 
+			#banner {
+				padding: 5em 2em 4.25em 2em ;
+				margin-bottom: -2.5em;
+			}
+
+				#banner .logo {
+					margin: 0 0 1em 0;
+					width: 150%;
+					height: 150%;
+				}
+        }
+				
 		body.is-preload #banner .logo {
 			-moz-transform: translateY(0.5em);
 			-webkit-transform: translateY(0.5em);
