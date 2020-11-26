@@ -75,7 +75,7 @@ All *Contributions* of the *Contributors* can be found in the [__Contributions__
               <img src="https://avatars1.githubusercontent.com/u/38143013?s=400&u=73996788b9a70a112b977c975ba38057f307bee5&v=4" width="100px;" alt="subhayu99"/><br />
               <sub>
                   <b>
-                      <strong>Subhayu Kr. Bala</strong>
+                      <strong>Abir Bhattacharya</strong>
                   </b>
               </sub>
           </a>
