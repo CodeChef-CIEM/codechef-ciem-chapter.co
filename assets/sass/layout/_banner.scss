@@ -11,6 +11,15 @@
 		}
 
 		.logo {
+
+			@media screen and (max-width: 640px){
+			.logo img {
+				width:50%!important;
+				margin:auto;
+				padding:auto;
+				}
+			}
+
 			@include vendor('transition', (
 				'opacity 2s ease',
 				'transform 1s ease',
