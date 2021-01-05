@@ -81,6 +81,16 @@ All *Contributions* of the *Contributors* can be found in the [__Contributions__
               </sub>
           </a>
       </td>
+      <td align="center">
+          <a href="https://github.com/aditya28sarin">
+              <img src="https://avatars2.githubusercontent.com/u/48805315?s=400&u=9cfd246957d3caf9985578aaf486c20481fc7c46&v=4" width="100px;" alt="aditya28sarin"/><br />
+              <sub>
+                  <b>
+                      <strong>Aditya Sarin</strong>
+                  </b>
+              </sub>
+          </a>
+      </td>
     </tr>
 </table>
 
