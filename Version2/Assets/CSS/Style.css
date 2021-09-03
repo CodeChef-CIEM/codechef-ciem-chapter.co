@@ -39,3 +39,58 @@
     margin-top: 1%;
 }
 /*End of Home*/
+/*Events*/
+.Events
+{
+    background-image: linear-gradient(#5c93e6,#5c71e6,#5c93e6);
+    text-align: center;
+    padding-bottom: 2%;
+}
+.Events .Heading
+{
+    font-size: 500%;
+    font-family: 'Mukta', sans-serif;
+    letter-spacing: 2px;
+    color: white;
+}
+.Events .Timeline
+{
+    display: flex;
+}
+.Events .Timeline .Left
+{
+    border-right: 1px solid white;
+    width: 50%;
+}
+.Events .Timeline .Right
+{
+    border-left: 1px solid white;
+    width: 50%;
+}
+.Events .Timeline .Left .Empty
+{
+    height: 25%;
+}
+.Events .Timeline .Right .Individual
+{
+    padding: 5%;
+    display: flex;
+    width: 50%;
+}
+.Events .Timeline .Right .Individual img
+{
+    width: 100%;
+    margin-left: 50%;
+}
+.Events .Timeline .Left .Individual
+{
+    padding: 5%;
+    display: flex;
+    width: 50%;
+}
+.Events .Timeline .Left .Individual img
+{
+    width: 100%;
+    margin-left: 25%;
+}
+/*End of Events*/
