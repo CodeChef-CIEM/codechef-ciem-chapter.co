@@ -2,4 +2,40 @@
 {
     margin: 0%;
     padding: 0%;
+    scroll-behavior: smooth;
 }
+/*Home*/
+.Home
+{
+    background-image: url("../Images/Background.png");
+    background-size: cover ;
+    padding-top: 10%;
+    padding-left: 7%;
+    padding-bottom: 10%;
+}
+.Home .Logo
+{
+    width: 20%;
+    border-left: 5px solid white;
+}
+.Home .Logo img
+{
+    width: 100%;
+}
+.Home .Heading
+{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 300%;
+    letter-spacing:10px;
+    margin-top: 2%;
+}
+.Home .Subheading
+{
+    color: #FBFDFE;
+    font-family: 'Poppins', sans-serif;
+    font-size: 70%;
+    letter-spacing: 9px;
+    margin-top: 1%;
+}
+/*End of Home*/
