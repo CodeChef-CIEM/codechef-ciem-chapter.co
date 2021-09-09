@@ -372,8 +372,8 @@ input, select, textarea {
 		display: flex;
 		flex-wrap: wrap;
 		box-sizing: border-box;
-		align-items: stretch;
 	}
+	/*
 
 		.row > * {
 			box-sizing: border-box;
@@ -608,7 +608,7 @@ input, select, textarea {
 				.row.gtr-200.gtr-uniform > * {
 					padding-top: 3.5em;
 				}
-
+*/
 		@media screen and (max-width: 1680px) {
 
 			.row {
@@ -617,7 +617,6 @@ input, select, textarea {
 				box-sizing: border-box;
 				align-items: stretch;
 			}
-
 				.row > * {
 					box-sizing: border-box;
 				}
