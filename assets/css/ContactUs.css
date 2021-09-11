@@ -7,6 +7,9 @@
 {
     background-image: url("../Images/Background.png");
     background-size: cover;
+    padding-bottom: 40%;
+    width: 100%;
+    position: fixed;
 }
 .Opener1
 {

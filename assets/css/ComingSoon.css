@@ -8,7 +8,10 @@
     background-image: url("../Images/Background.png");
     background-size: cover;
     padding-left: 5%;
-    padding-bottom: 2.6%;
+    padding-bottom: 40%;
+    margin-bottom: 0%;
+    width: 100%;
+    position: fixed;
 }
 .Opener1
 {
