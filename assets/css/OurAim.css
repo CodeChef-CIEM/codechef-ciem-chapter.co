@@ -35,11 +35,15 @@
 {
     font-family: 'Gruppo', cursive;
     color: thistle;
-    padding-top: 20%;
+    padding-top: 3%;
     font-size: 400%;
-    margin-right: 5%;
-    text-align: center;
-    padding-bottom: 19%;
+}
+.Opener .Subheading
+{
+    font-family: 'Gruppo', cursive;
+    color: rgb(191, 215, 216);
+    font-size: 150%;
+    margin-top: 2%;
 }
 @media(max-width:768px)
 {
@@ -55,17 +59,25 @@
     {
         display: block;
         background-image: linear-gradient(rgb(0, 57, 131),rgb(0, 0, 48));
-        padding-bottom: 2%;
     }
     .Heading
     {
         font-family: 'Gruppo', cursive;
         color: thistle;
-        padding-top: 56%;
+        padding-top: 3%;
         font-size: 400%;
+        margin-left: 5%;
         margin-right: 5%;
-        text-align: center;
-        padding-bottom: 56%;
+    }
+    .Subheading
+    {
+        font-family: 'Gruppo', cursive;
+        color: rgb(191, 215, 216);
+        font-size: 170%;
+        margin-top: 2%;
+        padding-bottom: 10%;
+        margin-left: 5%;
+        margin-right: 5%;
     }
     .Navbar1
     {
@@ -76,7 +88,7 @@
         padding-top: 2%;
         padding-left: 5%;
         padding-right: 5%;
-        padding-bottom: 2%;
+        padding-bottom: 3%;
         background-color: rgba(0, 0, 0, 0.8);
         width: 90%;
     }
@@ -104,8 +116,12 @@
     .Opener1 .Heading
     {
         font-size: 200%;
-        margin-bottom: 0%;
-        padding-bottom: 100%;
+        margin-bottom: 5%;
+    }
+    .Opener1 .Subheading
+    {
+        font-size: 105%;
+        padding-bottom: 2%;
     }
     .Navbar1 .Separate
     {

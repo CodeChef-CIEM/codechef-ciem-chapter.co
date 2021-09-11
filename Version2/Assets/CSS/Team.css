@@ -3,14 +3,13 @@
     margin: 0%;
     padding: 0%;
 }
-.Opener
+.Container
 {
     background-image: url("../Images/Background.png");
     background-size: cover;
-    padding-left: 5%;
-    padding-bottom: 2.6%;
+    padding-bottom: 3%;
 }
-.Opener1
+.Container1
 {
     display: none;
 }
@@ -31,41 +30,53 @@
 {
     color: rgb(191, 215, 216);
 }
-.Opener .Heading
+.Heading
 {
     font-family: 'Gruppo', cursive;
     color: thistle;
-    padding-top: 20%;
     font-size: 400%;
-    margin-right: 5%;
+    margin-left: 5%;
+}
+.Subheading
+{
+    margin-top: 3%;
+    font-family: 'Gruppo', cursive;
+    color: rgb(191, 215, 216);
+    font-size: 70%;
+    display: flex;
     text-align: center;
-    padding-bottom: 19%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.Subheading .Cards
+{
+    width: 20%;
+    padding: 2%;
+    background: rgba(0,0,0,0.5);
+}
+.Subheading .Cards:hover
+{
+    background: rgba(0,0,0,0.9);
+}
+.Subheading .Cards img
+{
+    width: 100%;
+}
+.Subheading .Cards .Name
+{
+    font-size: 190%;
 }
 @media(max-width:768px)
 {
-    .Navbar
+    .Container
     {
         display: none;
     }
-    .Opener
-    {
-        display: none;
-    }
-    .Opener1
+    .Container1
     {
         display: block;
         background-image: linear-gradient(rgb(0, 57, 131),rgb(0, 0, 48));
-        padding-bottom: 2%;
-    }
-    .Heading
-    {
-        font-family: 'Gruppo', cursive;
-        color: thistle;
-        padding-top: 56%;
-        font-size: 400%;
-        margin-right: 5%;
-        text-align: center;
-        padding-bottom: 56%;
+        padding-bottom: 1%;
     }
     .Navbar1
     {
@@ -74,9 +85,9 @@
         z-index: 1;
         text-align: right;
         padding-top: 2%;
+        padding-bottom: 15%;
         padding-left: 5%;
         padding-right: 5%;
-        padding-bottom: 2%;
         background-color: rgba(0, 0, 0, 0.8);
         width: 90%;
     }
@@ -91,7 +102,7 @@
     {
         font-size: 300%;
         text-align: center;
-        line-height: 190px;
+        line-height: 200px;
     }
     .Navbar1 .Separate a
     {
@@ -101,20 +112,26 @@
 }
 @media(max-width:360px)
 {
-    .Opener1 .Heading
+    .Heading
     {
-        font-size: 200%;
-        margin-bottom: 0%;
-        padding-bottom: 100%;
+        font-size: 50px;
+    }
+    .Heading #Smallers
+    {
+        font-size: 50%;
+    }
+    .Subheading
+    {
+        font-size: 40%;
+    }
+    .Container1
+    {
+        padding-bottom: 19%;
     }
     .Navbar1 .Separate
     {
         font-size: 150%;
         text-align: center;
-        line-height: 120px;
-    }
-    .Navbar1
-    {
-        padding-bottom: 15%;
+        line-height: 110px;
     }
 }
