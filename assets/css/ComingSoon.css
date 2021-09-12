@@ -1,123 +1,15 @@
 *
 {
-    margin: 0%;
+    margin:0%;
     padding: 0%;
 }
 .Opener
 {
-    background-image: url("../Images/Background.png");
+    background-image: url("../../images/ComingSoon.png");
     background-size: cover;
-    padding-left: 5%;
-    padding-bottom: 40%;
-    margin-bottom: 0%;
-    width: 100%;
-    position: fixed;
-}
-.Opener1
-{
-    display: none;
-}
-.Navbar
-{
-    display: flex;
-    margin-left: 40%;
-    font-family: 'Gruppo', cursive;
-    background-color: transparent;
-}
-.Navbar .Separate a
-{
-    font-size: 200%;
     color: white;
-    text-decoration: none;
-}
-.Navbar .Separate a:hover
-{
-    color: rgb(191, 215, 216);
-}
-.Opener .Heading
-{
-    font-family: 'Gruppo', cursive;
-    color: thistle;
-    padding-top: 20%;
-    font-size: 400%;
-    margin-right: 5%;
+    font-size: 500%;
     text-align: center;
-    padding-bottom: 19%;
-}
-@media(max-width:768px)
-{
-    .Navbar
-    {
-        display: none;
-    }
-    .Opener
-    {
-        display: none;
-    }
-    .Opener1
-    {
-        display: block;
-        background-image: linear-gradient(rgb(0, 57, 131),rgb(0, 0, 48));
-        padding-bottom: 2%;
-    }
-    .Heading
-    {
-        font-family: 'Gruppo', cursive;
-        color: thistle;
-        padding-top: 56%;
-        font-size: 400%;
-        margin-right: 5%;
-        text-align: center;
-        padding-bottom: 56%;
-    }
-    .Navbar1
-    {
-        display: none;
-        position: absolute;
-        z-index: 1;
-        text-align: right;
-        padding-top: 2%;
-        padding-left: 5%;
-        padding-right: 5%;
-        padding-bottom: 2%;
-        background-color: rgba(0, 0, 0, 0.8);
-        width: 90%;
-    }
-    .Navbar1 button
-    {
-        border: none;
-        font-size: 250%;
-        background-color: transparent;
-        color: rgb(191, 215, 216);
-    }
-    .Navbar1 .Separate
-    {
-        font-size: 300%;
-        text-align: center;
-        line-height: 190px;
-    }
-    .Navbar1 .Separate a
-    {
-        text-decoration: none;
-        color: rgb(191, 215, 216);
-    }
-}
-@media(max-width:360px)
-{
-    .Opener1 .Heading
-    {
-        font-size: 200%;
-        margin-bottom: 0%;
-        padding-bottom: 100%;
-    }
-    .Navbar1 .Separate
-    {
-        font-size: 150%;
-        text-align: center;
-        line-height: 120px;
-    }
-    .Navbar1
-    {
-        padding-bottom: 15%;
-    }
+    padding-top: 25%;
+    padding-bottom: 25%;
 }
