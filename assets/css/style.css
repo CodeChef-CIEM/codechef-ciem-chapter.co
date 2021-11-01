@@ -55,7 +55,6 @@ body
 {
     display: flex;
     justify-content: center;
-    display: none;
 }
 .Core_Team .Card .Image img
 {
@@ -80,6 +79,7 @@ body
 {
     display: flex;
     justify-content: center;
+    display: none;
 }
 .Exec_Team .Card .Image img
 {
