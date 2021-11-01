@@ -55,6 +55,7 @@ body
 {
     display: flex;
     justify-content: center;
+    display: none;
 }
 .Core_Team .Card .Image img
 {
@@ -71,6 +72,30 @@ body
     font-size: 20px;
 }
 .Core_Team .Card:hover
+{
+    background-color: rgba(255, 0, 85,0.5);
+}
+
+.Exec_Team
+{
+    display: flex;
+    justify-content: center;
+}
+.Exec_Team .Card .Image img
+{
+    width: 190px;
+}
+.Exec_Team .Card
+{
+    background-color: rgb(255, 0, 85);
+    margin: 1%;
+    text-align: center;
+    padding: 1%;
+    font-family: 'Share Tech Mono', monospace;
+    color: yellow;
+    font-size: 15px;
+}
+.Exec_Team .Card:hover
 {
     background-color: rgba(255, 0, 85,0.5);
 }
